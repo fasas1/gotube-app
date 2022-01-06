@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/fasas1/gotube-app.git/static/css/main.30c33cd6.css",
-    "main.js": "/fasas1/gotube-app.git/static/js/main.392e24ed.js",
-    "static/js/787.c605b93d.chunk.js": "/fasas1/gotube-app.git/static/js/787.c605b93d.chunk.js",
-    "index.html": "/fasas1/gotube-app.git/index.html",
-    "main.30c33cd6.css.map": "/fasas1/gotube-app.git/static/css/main.30c33cd6.css.map",
-    "main.392e24ed.js.map": "/fasas1/gotube-app.git/static/js/main.392e24ed.js.map",
-    "787.c605b93d.chunk.js.map": "/fasas1/gotube-app.git/static/js/787.c605b93d.chunk.js.map"
+    "main.css": "/gotube-app/static/css/main.30c33cd6.css",
+    "main.js": "/gotube-app/static/js/main.6f7cb689.js",
+    "static/js/787.c605b93d.chunk.js": "/gotube-app/static/js/787.c605b93d.chunk.js",
+    "index.html": "/gotube-app/index.html",
+    "main.30c33cd6.css.map": "/gotube-app/static/css/main.30c33cd6.css.map",
+    "main.6f7cb689.js.map": "/gotube-app/static/js/main.6f7cb689.js.map",
+    "787.c605b93d.chunk.js.map": "/gotube-app/static/js/787.c605b93d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.30c33cd6.css",
-    "static/js/main.392e24ed.js"
+    "static/js/main.6f7cb689.js"
   ]
 }
