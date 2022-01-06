@@ -2,7 +2,7 @@
   "name": "mytube",
   "version": "0.1.0",
   "private": true,
-  "homepage": " https://github.com/fasas1/gotube-app.git",
+  "homepage": " https://fasas1.github/io/gotube-app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
